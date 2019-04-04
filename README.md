@@ -12,6 +12,7 @@
 11.快速显示轮廓 ctrl + O <br>
 12.快速关闭当前Editer ctrl + W <br>
 13.快速显示当前Editer的下拉列表(如果当前页面没有显示的用黑体表示) ctrl + E <br>
+14.全局查找快捷键 ctrl+H <br>
 
 #### 下面的copy过来的
 Alt+Shift+R 重命名 (是我自己最爱用的一个了,尤其是变量和类的Rename,比手工方法能节省很多劳动力) <br>
